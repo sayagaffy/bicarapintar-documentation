@@ -1,0 +1,12 @@
+{
+    "name": "bicarapintar-docs",
+    "version": "1.0.0",
+    "description": "BicaraPintar Project Documentation",
+    "main": "index.html",
+    "scripts": {
+      "start": "docsify serve docs"
+    },
+    "devDependencies": {
+      "docsify-cli": "^4.4.4"
+    }
+  }
